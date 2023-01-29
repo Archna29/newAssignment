@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+ # Description about the project :  
+ In this project i created a user grid layout having a navbar with a button. On click of the button an api is called. I used async await method to fetch the api data and store the data in a user variable by using UseState hook then i map the user details by using the map method. I have use Css for styling of the project you can see the code of api fetch in navbar.js. 
+ 
+ # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
